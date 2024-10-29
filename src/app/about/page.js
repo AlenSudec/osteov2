@@ -98,7 +98,7 @@ export default function AboutPage() {
                 Founded in 2005, Osteopraktik began as a small clinic with a big vision: to revolutionize holistic healthcare in our community. Our journey started with a team of passionate practitioners who believed in treating not just symptoms, but the whole person.
               </p>
               <p className="text-lg mb-4">
-                Over the years, we've grown in size and expertise, but our core mission remains the same: to provide personalized, comprehensive care that empowers our patients to achieve optimal health and wellness.
+                Over the years, weve grown in size and expertise, but our core mission remains the same: to provide personalized, comprehensive care that empowers our patients to achieve optimal health and wellness.
               </p>
               <p className="text-lg">
                 Today, Osteopraktik stands as a beacon of integrative healthcare, blending traditional wisdom with cutting-edge techniques to offer our patients the best of both worlds.
