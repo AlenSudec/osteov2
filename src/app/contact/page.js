@@ -64,7 +64,7 @@ export default function ContactPage() {
             {...fadeInUp}
             transition={{ delay: 0.2 }}
           >
-            Were here to answer your questions and provide the support you need. Reach out to us today.
+            We're here to answer your questions and provide the support you need. Reach out to us today.
           </motion.p>
         </div>
       </section>
